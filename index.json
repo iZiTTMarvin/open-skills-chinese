@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-11T16:11:31.500810+00:00",
+  "generatedAt": "2026-03-12T11:06:21.519815+00:00",
   "source": "https://skill.molili.com.cn/",
   "skills": [
     {
       "id": "molili-8163",
-      "name": "cron-backup",
-      "description": "Set up scheduled automated backups with version tracking and cleanup. Use when users need to (1) Schedule periodic backups of directories or files, (2) Monitor version changes and backup on updates, (3) Automatically clean up old backups to save space, (4) Create backup strategies for configuration files, code repositories, or user data.",
+      "name": "cron-备份",
+      "description": "使用版本跟踪和清理设置计划的自动备份。当用户需要 (1) 安排目录或文件的定期备份，(2) 监视版本更改和更新时备份，(3) 自动清理旧备份以节省空间，(4) 为配置文件、代码存储库或用户数据创建备份策略时使用。",
       "repo": "iZiTTMarvin/open-skills-chinese",
       "path": "packages/molili-8163",
       "stars": 0,
@@ -20,12 +20,14 @@
       "externalUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8163",
       "categoryName": "编码代理和集成开发环境",
       "originalDetailUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8163",
-      "version": "0.3.0"
+      "version": "0.3.0",
+      "packageName": "cron-backup",
+      "packageDescription": "Set up scheduled automated backups with version tracking and cleanup. Use when users need to (1) Schedule periodic backups of directories or files, (2) Monitor version changes and backup on updates, (3) Automatically clean up old backups to save space, (4) Create backup strategies for configuration files, code repositories, or user data."
     },
     {
       "id": "molili-8166",
-      "name": "skill-from-memory",
-      "description": "Convert memory, conversation history, or completed tasks into publishable OpenClaw skills. Use when (1) A task or workflow should be reusable, (2) Extracting lessons from memory to create tools, (3) Packaging solved problems as skills for future use, (4) Publishing skills to GitHub and ClawHub registry.",
+      "name": "来自记忆的技能",
+      "description": "将记忆，对话历史记录或已完成的任务转换为可发布的OpenClaw技能。在以下情况下使用 :( 1) 任务或工作流应该可重用，(2) 从内存中提取经验教训以创建工具，(3) 将已解决的问题打包为将来使用的技能，(4) 将技能发布到GitHub和ClawHub注册表。",
       "repo": "iZiTTMarvin/open-skills-chinese",
       "path": "packages/molili-8166",
       "stars": 0,
@@ -39,12 +41,14 @@
       "externalUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8166",
       "categoryName": "编码代理和集成开发环境",
       "originalDetailUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8166",
-      "version": "0.1.1"
+      "version": "0.1.1",
+      "packageName": "skill-from-memory",
+      "packageDescription": "Convert memory, conversation history, or completed tasks into publishable OpenClaw skills. Use when (1) A task or workflow should be reusable, (2) Extracting lessons from memory to create tools, (3) Packaging solved problems as skills for future use, (4) Publishing skills to GitHub and ClawHub registry."
     },
     {
       "id": "molili-8172",
-      "name": "siyuan-task",
-      "description": "Manage tasks in SiYuan Note via its HTTP API. Create, query, update, and organize tasks stored in the 任务清单 document (with a TASK database) and sub-documents for related materials. Use when the user mentions SiYuan, task management, or needs to track work items.",
+      "name": "思源-任务",
+      "description": "通过其HTTP API在思源笔记中管理任务。创建、查询、更新和组织存储在任务清单文档 (带有任务数据库) 中的任务以及相关材料的子文档。当用户提到思远、任务管理或需要跟踪工作项时使用。",
       "repo": "iZiTTMarvin/open-skills-chinese",
       "path": "packages/molili-8172",
       "stars": 0,
@@ -58,7 +62,9 @@
       "externalUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8172",
       "categoryName": "编码代理和集成开发环境",
       "originalDetailUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8172",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "packageName": "siyuan-task",
+      "packageDescription": "Manage tasks in SiYuan Note via its HTTP API. Create, query, update, and organize tasks stored in the 任务清单 document (with a TASK database) and sub-documents for related materials. Use when the user mentions SiYuan, task management, or needs to track work items."
     },
     {
       "id": "molili-8173",
@@ -77,12 +83,14 @@
       "externalUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8173",
       "categoryName": "编码代理和集成开发环境",
       "originalDetailUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8173",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "packageName": null,
+      "packageDescription": null
     },
     {
       "id": "molili-8174",
-      "name": "ket-exam-prep-app",
-      "description": "Guides development of KET (A2 Key for Schools) exam preparation and English learning applications. Supports both English beginners (Pre-A1, A1) and KET prep learners. Use when building listening, speaking, reading, or writing features, Cambridge A2 learning apps, or beginner-friendly English practice.",
+      "name": "ket-考试准备-应用程序",
+      "description": "指导KET (学校A2键) 考试准备和英语学习应用程序的开发。支持英语初学者 (Pre-A1，A1) 和KET准备学习者。在构建听力，口语，阅读或写作功能，剑桥A2学习应用程序或初学者友好的英语练习时使用。",
       "repo": "iZiTTMarvin/open-skills-chinese",
       "path": "packages/molili-8174",
       "stars": 0,
@@ -96,12 +104,14 @@
       "externalUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8174",
       "categoryName": "编码代理和集成开发环境",
       "originalDetailUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8174",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "packageName": "ket-exam-prep-app",
+      "packageDescription": "Guides development of KET (A2 Key for Schools) exam preparation and English learning applications. Supports both English beginners (Pre-A1, A1) and KET prep learners. Use when building listening, speaking, reading, or writing features, Cambridge A2 learning apps, or beginner-friendly English practice."
     },
     {
       "id": "molili-8181",
       "name": "zapper-api",
-      "description": "Query DeFi portfolios, token holdings, NFTs, transactions, and prices via Zapper API. Supports 50+ chains. Use when user asks about wallet balances, DeFi positions, NFT collections, token prices, or transaction history.",
+      "description": "通过Zapper API查询DeFi投资组合、代币持有量、nft、交易和价格。支持50个链条。当用户询问钱包余额、DeFi头寸、NFT收款、代币价格或交易历史时使用。",
       "repo": "iZiTTMarvin/open-skills-chinese",
       "path": "packages/molili-8181",
       "stars": 0,
@@ -115,12 +125,14 @@
       "externalUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8181",
       "categoryName": "编码代理和集成开发环境",
       "originalDetailUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8181",
-      "version": "0.1.0"
+      "version": "0.1.0",
+      "packageName": "zapper-api",
+      "packageDescription": "Query DeFi portfolios, token holdings, NFTs, transactions, and prices via Zapper API. Supports 50+ chains. Use when user asks about wallet balances, DeFi positions, NFT collections, token prices, or transaction history."
     },
     {
       "id": "molili-8183",
-      "name": "spool",
-      "description": "\"Threads CLI - Read, post, reply, and search on Meta's Threads using OpenClaw browser tool. Use when the user wants to interact with Threads: posting, reading timeline, viewing profiles, replying to threads, or searching.\"",
+      "name": "阀芯",
+      "description": "线程CLI-使用OpenClaw浏览器工具在Meta的线程上读取，发布，回复和搜索。当用户想要与线程交互时使用: 发布、阅读时间线、查看配置文件、回复线程或搜索。",
       "repo": "iZiTTMarvin/open-skills-chinese",
       "path": "packages/molili-8183",
       "stars": 0,
@@ -134,12 +146,14 @@
       "externalUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8183",
       "categoryName": "编码代理和集成开发环境",
       "originalDetailUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8183",
-      "version": "1.0.1"
+      "version": "1.0.1",
+      "packageName": "spool",
+      "packageDescription": "\"Threads CLI - Read, post, reply, and search on Meta's Threads using OpenClaw browser tool. Use when the user wants to interact with Threads: posting, reading timeline, viewing profiles, replying to threads, or searching.\""
     },
     {
       "id": "molili-8187",
       "name": "zkclaw",
-      "description": "ZKclaw — Anonymous posting to Farcaster & X for AI agents. No registration, no API keys. Hold $ZKCLAW tokens and post anonymously using zero-knowledge proofs.",
+      "description": "ZKclaw-匿名发布到Farcaster & X的AI代理。没有注册，没有API密钥。持有 $ ZKCLAW代币，并使用零知识证明匿名发布。",
       "repo": "iZiTTMarvin/open-skills-chinese",
       "path": "packages/molili-8187",
       "stars": 0,
@@ -153,12 +167,14 @@
       "externalUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8187",
       "categoryName": "编码代理和集成开发环境",
       "originalDetailUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8187",
-      "version": "1.0.1"
+      "version": "1.0.1",
+      "packageName": "zkclaw",
+      "packageDescription": "ZKclaw — Anonymous posting to Farcaster & X for AI agents. No registration, no API keys. Hold $ZKCLAW tokens and post anonymously using zero-knowledge proofs."
     },
     {
       "id": "molili-8189",
-      "name": "finishing-a-development-branch",
-      "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup",
+      "name": "整理-开发-分支",
+      "description": "当实现完成，所有测试都通过，并且您需要决定如何集成工作时使用-通过提供合并，PR或清理的结构化选项来指导开发工作的完成",
       "repo": "iZiTTMarvin/open-skills-chinese",
       "path": "packages/molili-8189",
       "stars": 0,
@@ -172,12 +188,14 @@
       "externalUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8189",
       "categoryName": "编码代理和集成开发环境",
       "originalDetailUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8189",
-      "version": "0.1.0"
+      "version": "0.1.0",
+      "packageName": "finishing-a-development-branch",
+      "packageDescription": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup"
     },
     {
       "id": "molili-8191",
-      "name": "using-git-worktrees",
-      "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - creates isolated git worktrees with smart directory selection and safety verification",
+      "name": "使用-git-worktrees",
+      "description": "在启动需要从当前工作区隔离的功能工作时或在执行实施计划之前使用-使用智能目录选择和安全验证创建隔离的git worktrees",
       "repo": "iZiTTMarvin/open-skills-chinese",
       "path": "packages/molili-8191",
       "stars": 0,
@@ -191,12 +209,14 @@
       "externalUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8191",
       "categoryName": "编码代理和集成开发环境",
       "originalDetailUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8191",
-      "version": "0.1.0"
+      "version": "0.1.0",
+      "packageName": "using-git-worktrees",
+      "packageDescription": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - creates isolated git worktrees with smart directory selection and safety verification"
     },
     {
       "id": "molili-8194",
-      "name": "writing-plans",
-      "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
+      "name": "写作-计划",
+      "description": "在触摸代码之前，当您有多步任务的规范或要求时使用",
       "repo": "iZiTTMarvin/open-skills-chinese",
       "path": "packages/molili-8194",
       "stars": 0,
@@ -210,12 +230,14 @@
       "externalUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8194",
       "categoryName": "编码代理和集成开发环境",
       "originalDetailUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8194",
-      "version": "0.1.0"
+      "version": "0.1.0",
+      "packageName": "writing-plans",
+      "packageDescription": "Use when you have a spec or requirements for a multi-step task, before touching code"
     },
     {
       "id": "molili-8198",
-      "name": "table-mountain-status",
-      "description": "Fetch and report the Table Mountain Aerial Cableway status via the official weather API. Use when Master asks for “Tafelberg” updates, needs alerts about openings/closures, or wants automated Telegram reports about status, weather, and waiting times.",
+      "name": "表-山-状态",
+      "description": "通过官方天气API获取并报告桌山空中索道状态。当Master要求 “Tafelberg” 更新，需要有关打开/关闭的警报，或希望有关状态，天气和等待时间的自动电报报告时使用。",
       "repo": "iZiTTMarvin/open-skills-chinese",
       "path": "packages/molili-8198",
       "stars": 0,
@@ -229,12 +251,14 @@
       "externalUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8198",
       "categoryName": "编码代理和集成开发环境",
       "originalDetailUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8198",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "packageName": "table-mountain-status",
+      "packageDescription": "Fetch and report the Table Mountain Aerial Cableway status via the official weather API. Use when Master asks for “Tafelberg” updates, needs alerts about openings/closures, or wants automated Telegram reports about status, weather, and waiting times."
     },
     {
       "id": "molili-8203",
       "name": "livekit",
-      "description": "Build voice AI agents with LiveKit. Use when developing realtime voice applications, voice agent pipelines (STT-LLM-TTS), WebRTC communication, or deploying conversational AI. Covers LiveKit Agents SDK, provider selection (Deepgram, OpenAI, ElevenLabs, Cartesia), cloud vs self-hosted deployment.",
+      "description": "使用LiveKit构建语音AI代理。在开发实时语音应用程序、语音代理管道 (stt-llm-tts) 、WebRTC通信或部署对话式AI时使用。涵盖LiveKit代理SDK、提供商选择 (Deepgram、OpenAI、ElevenLabs、Cartesia) 、云与自托管部署。",
       "repo": "iZiTTMarvin/open-skills-chinese",
       "path": "packages/molili-8203",
       "stars": 0,
@@ -248,12 +272,14 @@
       "externalUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8203",
       "categoryName": "编码代理和集成开发环境",
       "originalDetailUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8203",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "packageName": "livekit",
+      "packageDescription": "Build voice AI agents with LiveKit. Use when developing realtime voice applications, voice agent pipelines (STT-LLM-TTS), WebRTC communication, or deploying conversational AI. Covers LiveKit Agents SDK, provider selection (Deepgram, OpenAI, ElevenLabs, Cartesia), cloud vs self-hosted deployment."
     },
     {
       "id": "molili-8205",
       "name": "nova-act",
-      "description": "Write and execute Python scripts using Amazon Nova Act for AI-powered browser automation tasks like flight searches, data extraction, and form filling.",
+      "description": "使用Amazon Nova Act编写和执行Python脚本，以执行基于AI的浏览器自动化任务，例如航班搜索、数据提取和表单填写。",
       "repo": "iZiTTMarvin/open-skills-chinese",
       "path": "packages/molili-8205",
       "stars": 0,
@@ -267,12 +293,14 @@
       "externalUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8205",
       "categoryName": "编码代理和集成开发环境",
       "originalDetailUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8205",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "packageName": "nova-act",
+      "packageDescription": "Write and execute Python scripts using Amazon Nova Act for AI-powered browser automation tasks like flight searches, data extraction, and form filling."
     },
     {
       "id": "molili-8208",
-      "name": "bagman",
-      "description": "Secure key management for AI agents. Use when handling private keys, API secrets, wallet credentials, or when building systems that need agent-controlled funds. Covers secure storage, session keys, leak prevention, prompt injection defense, and MetaMask Delegation Framework integration.",
+      "name": "巴格曼",
+      "description": "AI代理的安全密钥管理。在处理私钥、API机密、钱包凭据或构建需要代理控制资金的系统时使用。涵盖安全存储、会话密钥、防泄漏、即时注入防御和MetaMask委托框架集成。",
       "repo": "iZiTTMarvin/open-skills-chinese",
       "path": "packages/molili-8208",
       "stars": 0,
@@ -286,12 +314,14 @@
       "externalUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8208",
       "categoryName": "编码代理和集成开发环境",
       "originalDetailUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8208",
-      "version": "2.1.0"
+      "version": "2.1.0",
+      "packageName": "bagman",
+      "packageDescription": "Secure key management for AI agents. Use when handling private keys, API secrets, wallet credentials, or when building systems that need agent-controlled funds. Covers secure storage, session keys, leak prevention, prompt injection defense, and MetaMask Delegation Framework integration."
     },
     {
       "id": "molili-8210",
-      "name": "gembox-skill",
-      "description": "Coding assistance for [GemBox components](https://www.gemboxsoftware.com/). Use when users ask about any GemBox component or coding task that can be performed with a GemBox component. This includes GemBox.Spreadsheet (.NET read/write Excel files), GemBox.Document (.NET read/write Word files), GemBox.Pdf (.NET read/write PDF files), GemBox.Presentation (.NET read/write PowerPoint files), GemBox.Email (.NET read/write email files, send/receive emails), GemBox.Imaging (.NET read/write image files), and GemBox.PdfViewer (JavaScript display/print/save PDF files).",
+      "name": "gembox-技能",
+      "description": "[GemBox组件] 的编码帮助 ( https://www.gemboxsoftware.com/)。当用户询问任何GemBox组件或可以使用GemBox组件执行的编码任务时使用。这包括GemBox.Spreadsheet (.NET读/写Excel文件)，GemBox.Document (.NET读/写Word文件)，GemBox.Pdf (.NET读/写pdf文件)，GemBox.Presentation (.NET读/写PowerPoint文件)，gemBox.Email (.NET读/写电子邮件文件，发送/接收电子邮件)，GemBox.Imaging (.NET读/写图像文件) 和GemBox.PdfViewer (JavaScript显示/打印/保存pdf文件)。",
       "repo": "iZiTTMarvin/open-skills-chinese",
       "path": "packages/molili-8210",
       "stars": 0,
@@ -305,12 +335,14 @@
       "externalUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8210",
       "categoryName": "编码代理和集成开发环境",
       "originalDetailUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8210",
-      "version": "0.9.0"
+      "version": "0.9.0",
+      "packageName": "gembox-skill",
+      "packageDescription": "Coding assistance for [GemBox components](https://www.gemboxsoftware.com/). Use when users ask about any GemBox component or coding task that can be performed with a GemBox component. This includes GemBox.Spreadsheet (.NET read/write Excel files), GemBox.Document (.NET read/write Word files), GemBox.Pdf (.NET read/write PDF files), GemBox.Presentation (.NET read/write PowerPoint files), GemBox.Email (.NET read/write email files, send/receive emails), GemBox.Imaging (.NET read/write image files), and GemBox.PdfViewer (JavaScript display/print/save PDF files)."
     },
     {
       "id": "molili-8212",
-      "name": "mal-lookup",
-      "description": "Direct MyAnimeList lookup tool. Bypasses Jikan/API issues by using MAL's internal endpoints.",
+      "name": "错误查找",
+      "description": "直接MyAnimeList查找工具。使用MAL的内部端点绕过Jikan/API问题。",
       "repo": "iZiTTMarvin/open-skills-chinese",
       "path": "packages/molili-8212",
       "stars": 0,
@@ -324,12 +356,14 @@
       "externalUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8212",
       "categoryName": "编码代理和集成开发环境",
       "originalDetailUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8212",
-      "version": "1.3.1"
+      "version": "1.3.1",
+      "packageName": "mal-lookup",
+      "packageDescription": "Direct MyAnimeList lookup tool. Bypasses Jikan/API issues by using MAL's internal endpoints."
     },
     {
       "id": "molili-8213",
-      "name": "git-summary",
-      "description": "Get a quick summary of the current Git repository including status, recent commits, branches, and contributors.",
+      "name": "git-摘要",
+      "description": "获取当前Git存储库的快速摘要，包括状态、最近提交、分支和贡献者。",
       "repo": "iZiTTMarvin/open-skills-chinese",
       "path": "packages/molili-8213",
       "stars": 0,
@@ -343,12 +377,14 @@
       "externalUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8213",
       "categoryName": "编码代理和集成开发环境",
       "originalDetailUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8213",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "packageName": "git-summary",
+      "packageDescription": "Get a quick summary of the current Git repository including status, recent commits, branches, and contributors."
     },
     {
       "id": "molili-8214",
-      "name": "arxiv-paper-reviews",
-      "description": "Interact with arXiv Crawler API to fetch papers, read reviews, submit comments, search papers, and import papers. Use when working with arXiv papers, fetching paper lists by date/category/interest, viewing paper details with comments, submitting paper reviews, searching papers by title, or importing papers from arXiv URLs via API at http://122.51.2.127:8000.",
+      "name": "arxiv-纸-评论",
+      "description": "与arXiv爬虫API交互以获取论文，阅读评论，提交评论，搜索论文和导入论文。在处理arXiv论文，按日期/类别/兴趣获取论文列表，查看带有评论的论文详细信息，提交论文评论，按标题搜索论文或通过API从arXiv url导入论文时使用http:// 122.51.2.127:8000。",
       "repo": "iZiTTMarvin/open-skills-chinese",
       "path": "packages/molili-8214",
       "stars": 0,
@@ -362,12 +398,14 @@
       "externalUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8214",
       "categoryName": "编码代理和集成开发环境",
       "originalDetailUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8214",
-      "version": "1.0.2"
+      "version": "1.0.2",
+      "packageName": "arxiv-paper-reviews",
+      "packageDescription": "Interact with arXiv Crawler API to fetch papers, read reviews, submit comments, search papers, and import papers. Use when working with arXiv papers, fetching paper lists by date/category/interest, viewing paper details with comments, submitting paper reviews, searching papers by title, or importing papers from arXiv URLs via API at http://122.51.2.127:8000."
     },
     {
       "id": "molili-8215",
-      "name": "dilemm-ai",
-      "description": "Compete in DilemmAI, the prisoner's dilemma AI arena at dilemm.ai. Use when an OpenClaw agent wants to create an account, design and submit strategy prompts for their bot, enter matchmaking, analyze historical matches and leaderboards, and iterate on bot strategy. Requires headless browser automation (no API available yet).",
+      "name": "困境-人工智能",
+      "description": "在dilemm.AI的囚徒困境ai竞技场DilemmAI中竞争。当OpenClaw代理想要创建帐户，为其机器人设计和提交策略提示，输入匹配，分析历史匹配和排行榜以及迭代机器人策略时使用。需要无头浏览器自动化 (没有可用的API)。",
       "repo": "iZiTTMarvin/open-skills-chinese",
       "path": "packages/molili-8215",
       "stars": 0,
@@ -381,7 +419,9 @@
       "externalUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8215",
       "categoryName": "编码代理和集成开发环境",
       "originalDetailUrl": "https://skill.molili.com.cn/index/info/detail.html?id=8215",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "packageName": "dilemm-ai",
+      "packageDescription": "Compete in DilemmAI, the prisoner's dilemma AI arena at dilemm.ai. Use when an OpenClaw agent wants to create an account, design and submit strategy prompts for their bot, enter matchmaking, analyze historical matches and leaderboards, and iterate on bot strategy. Requires headless browser automation (no API available yet)."
     }
   ]
 }
