@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "generatedAt": "2026-03-11T16:11:31.501870+00:00",
+  "source": "https://skill.molili.com.cn/",
+  "categories": [
+    {
+      "typeId": 1,
+      "name": "编码代理和集成开发环境",
+      "totalSkills": 2759,
+      "skillIds": [
+        "molili-8163",
+        "molili-8166",
+        "molili-8172",
+        "molili-8173",
+        "molili-8174",
+        "molili-8181",
+        "molili-8183",
+        "molili-8187",
+        "molili-8189",
+        "molili-8191",
+        "molili-8194",
+        "molili-8198",
+        "molili-8203",
+        "molili-8205",
+        "molili-8208",
+        "molili-8210",
+        "molili-8212",
+        "molili-8213",
+        "molili-8214",
+        "molili-8215"
+      ]
+    }
+  ]
+}
